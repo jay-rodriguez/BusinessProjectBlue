@@ -1,7 +1,7 @@
 Title: Products
 Date: 2020-1-29
 Modified: 2020-1-29
-Category: Company_Information
+Category: Company Information
 Tags: pelican, publishing
 Slug:my-product-post
 Authors: Sean Sikorski, Nathan Lerma, Juan Rodriguez
